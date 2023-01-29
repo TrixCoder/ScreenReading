@@ -1,0 +1,3 @@
+0 chrome_open_selected
+1 chrome_open_not_selected
+2 chrome_closed
